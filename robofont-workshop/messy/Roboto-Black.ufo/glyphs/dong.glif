@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dong" format="1">
+  <advance width="1182"/>
+  <unicode hex="20AB"/>
+  <outline>
+    <component base="d"/>
+    <component base="glyph00472" xOffset="327" yOffset="564"/>
+    <component base="underscore" xOffset="143" yOffset="-131"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

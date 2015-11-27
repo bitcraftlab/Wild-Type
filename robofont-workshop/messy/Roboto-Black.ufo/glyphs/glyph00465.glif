@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glyph00465" format="1">
+  <advance width="508"/>
+  <outline>
+    <contour>
+      <point x="260" y="1543" type="qcurve"/>
+      <point x="428" y="1470" type="line"/>
+      <point x="394.5" y="1400.0" name="inserted"/>
+      <point x="359.5" y="1273.5"/>
+      <point x="358" y="1217" type="qcurve" smooth="yes"/>
+      <point x="356" y="1074" type="line"/>
+      <point x="119" y="1074" type="line"/>
+      <point x="119" y="1194" type="line" smooth="yes"/>
+      <point x="119.0" y="1326.0" name="inserted"/>
+      <point x="189.5" y="1500.5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

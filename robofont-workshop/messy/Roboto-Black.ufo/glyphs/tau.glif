@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="1">
+  <advance width="1062"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="1039" y="824" type="line"/>
+      <point x="688" y="824" type="line"/>
+      <point x="688" y="351" type="line" smooth="yes"/>
+      <point x="688" y="290"/>
+      <point x="728" y="241"/>
+      <point x="776" y="241" type="qcurve" smooth="yes"/>
+      <point x="796.0" y="241.0" name="inserted"/>
+      <point x="846.5" y="247.5"/>
+      <point x="877" y="254" type="qcurve"/>
+      <point x="899" y="4" type="line"/>
+      <point x="858.0" y="-8.0" name="inserted"/>
+      <point x="765.5" y="-20.0"/>
+      <point x="714" y="-20" type="qcurve" smooth="yes"/>
+      <point x="537" y="-20"/>
+      <point x="349" y="170"/>
+      <point x="349" y="353" type="qcurve" smooth="yes"/>
+      <point x="349" y="824" type="line"/>
+      <point x="23" y="824" type="line"/>
+      <point x="23" y="1082" type="line"/>
+      <point x="1039" y="1082" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10072" format="1">
+  <advance width="1847"/>
+  <unicode hex="0436"/>
+  <outline>
+    <contour>
+      <point x="1225" y="378" type="line"/>
+      <point x="1097" y="378" type="line"/>
+      <point x="1097" y="0" type="line"/>
+      <point x="760" y="0" type="line"/>
+      <point x="760" y="378" type="line"/>
+      <point x="635" y="378" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="372" y="579" type="line"/>
+      <point x="37" y="1082" type="line"/>
+      <point x="458" y="1082" type="line"/>
+      <point x="663" y="693" type="line"/>
+      <point x="760" y="693" type="line"/>
+      <point x="760" y="1082" type="line"/>
+      <point x="1097" y="1082" type="line"/>
+      <point x="1097" y="693" type="line"/>
+      <point x="1197" y="693" type="line"/>
+      <point x="1403" y="1082" type="line"/>
+      <point x="1824" y="1082" type="line"/>
+      <point x="1487" y="577" type="line"/>
+      <point x="1497" y="582" type="line"/>
+      <point x="1821" y="0" type="line"/>
+      <point x="1409" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

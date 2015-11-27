@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eta" format="1">
+  <advance width="1151"/>
+  <unicode hex="03B7"/>
+  <outline>
+    <contour>
+      <point x="407" y="1082" type="line"/>
+      <point x="418" y="947" type="line"/>
+      <point x="477.5" y="1024.5" name="inserted"/>
+      <point x="631.5" y="1102.0"/>
+      <point x="726" y="1102" type="qcurve" smooth="yes"/>
+      <point x="894" y="1102"/>
+      <point x="1064" y="895"/>
+      <point x="1064" y="692" type="qcurve" smooth="yes"/>
+      <point x="1064" y="-416" type="line"/>
+      <point x="726" y="-416" type="line"/>
+      <point x="726" y="685" type="line" smooth="yes"/>
+      <point x="726.0" y="763.5" name="inserted"/>
+      <point x="661.5" y="842.0"/>
+      <point x="597" y="842" type="qcurve" smooth="yes"/>
+      <point x="542.5" y="842.0" name="inserted"/>
+      <point x="457.5" y="806.0"/>
+      <point x="427" y="770" type="qcurve"/>
+      <point x="427" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="1082" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

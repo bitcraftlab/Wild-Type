@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotenleader" format="1">
+  <advance width="1119"/>
+  <unicode hex="2025"/>
+  <outline>
+    <component base="period" xOffset="11"/>
+    <component base="period" xOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

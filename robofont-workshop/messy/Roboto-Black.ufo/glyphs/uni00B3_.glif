@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00B3" format="1">
+  <advance width="768"/>
+  <unicode hex="00B3"/>
+  <outline>
+    <contour>
+      <point x="277" y="1140" type="line"/>
+      <point x="365" y="1140" type="line" smooth="yes"/>
+      <point x="415.5" y="1140.0" name="inserted"/>
+      <point x="466.0" y="1181.0"/>
+      <point x="466" y="1222" type="qcurve" smooth="yes"/>
+      <point x="466" y="1254"/>
+      <point x="415" y="1291"/>
+      <point x="370" y="1291" type="qcurve" smooth="yes"/>
+      <point x="335" y="1291"/>
+      <point x="281" y="1265"/>
+      <point x="281" y="1240" type="qcurve"/>
+      <point x="57" y="1240" type="line"/>
+      <point x="57" y="1342"/>
+      <point x="227" y="1467"/>
+      <point x="363" y="1467" type="qcurve" smooth="yes"/>
+      <point x="517" y="1467"/>
+      <point x="690" y="1344"/>
+      <point x="690" y="1240" type="qcurve" smooth="yes"/>
+      <point x="690.0" y="1180.0" name="inserted"/>
+      <point x="621.0" y="1095.5"/>
+      <point x="552" y="1071" type="qcurve"/>
+      <point x="629.0" y="1050.5" name="inserted"/>
+      <point x="706.0" y="959.0"/>
+      <point x="706" y="888" type="qcurve" smooth="yes"/>
+      <point x="706" y="784"/>
+      <point x="518" y="655"/>
+      <point x="363" y="655" type="qcurve" smooth="yes"/>
+      <point x="218" y="655"/>
+      <point x="41" y="793"/>
+      <point x="41" y="907" type="qcurve"/>
+      <point x="268" y="907" type="line"/>
+      <point x="268" y="878"/>
+      <point x="327" y="831"/>
+      <point x="379" y="831" type="qcurve" smooth="yes"/>
+      <point x="435" y="831"/>
+      <point x="480" y="881"/>
+      <point x="480" y="912" type="qcurve" smooth="yes"/>
+      <point x="480.0" y="954.5" name="inserted"/>
+      <point x="425.5" y="997.5"/>
+      <point x="371" y="998" type="qcurve" smooth="yes"/>
+      <point x="277" y="998" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

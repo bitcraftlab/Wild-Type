@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glyph01192" format="1">
+  <advance width="1054"/>
+  <outline>
+    <component base="z"/>
+    <component base="dotbelowcomb" xOffset="1124"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

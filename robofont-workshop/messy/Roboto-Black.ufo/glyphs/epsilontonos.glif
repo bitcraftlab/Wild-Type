@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilontonos" format="1">
+  <advance width="1159"/>
+  <unicode hex="03AD"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="tonos" xOffset="239"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

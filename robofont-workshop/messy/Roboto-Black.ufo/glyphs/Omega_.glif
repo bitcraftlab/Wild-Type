@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega" format="1">
+  <advance width="1381"/>
+  <unicode hex="03A9"/>
+  <outline>
+    <contour>
+      <point x="735" y="278" type="line"/>
+      <point x="800" y="322"/>
+      <point x="868" y="584"/>
+      <point x="868" y="791" type="qcurve" smooth="yes"/>
+      <point x="868" y="871" type="line" smooth="yes"/>
+      <point x="868" y="1036"/>
+      <point x="771" y="1201"/>
+      <point x="683" y="1201" type="qcurve" smooth="yes"/>
+      <point x="596" y="1201"/>
+      <point x="499" y="1036"/>
+      <point x="499" y="871" type="qcurve" smooth="yes"/>
+      <point x="499" y="794" type="line" smooth="yes"/>
+      <point x="499" y="582"/>
+      <point x="567" y="324"/>
+      <point x="639" y="278" type="qcurve"/>
+      <point x="639" y="0" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="120" y="274" type="line"/>
+      <point x="341" y="274" type="line"/>
+      <point x="228" y="372"/>
+      <point x="99" y="639"/>
+      <point x="98" y="788" type="qcurve" smooth="yes"/>
+      <point x="98" y="869" type="line" smooth="yes"/>
+      <point x="98" y="1044"/>
+      <point x="246" y="1321"/>
+      <point x="379.5" y="1398.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="446.25" y="1436.5" name="inserted"/>
+      <point x="598.0" y="1475.0"/>
+      <point x="683" y="1475" type="qcurve" smooth="yes"/>
+      <point x="850" y="1475"/>
+      <point x="1117" y="1324"/>
+      <point x="1192.5" y="1187.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1230.25" y="1118.5" name="inserted"/>
+      <point x="1269.0" y="964.5"/>
+      <point x="1270" y="879" type="qcurve" smooth="yes"/>
+      <point x="1270" y="794" type="line" smooth="yes"/>
+      <point x="1270.0" y="699.5" name="inserted"/>
+      <point x="1219.5" y="522.5"/>
+      <point x="1169" y="440" type="qcurve" smooth="yes"/>
+      <point x="1140.0" y="393.0" name="inserted"/>
+      <point x="1069.5" y="310.0"/>
+      <point x="1028" y="274" type="qcurve"/>
+      <point x="1247" y="274" type="line"/>
+      <point x="1247" y="0" type="line"/>
+      <point x="735" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

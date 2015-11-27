@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seveneighths" format="1">
+  <advance width="1823"/>
+  <unicode hex="215E"/>
+  <outline>
+    <component base="glyph00431" xOffset="47" yOffset="654"/>
+    <component base="fraction" xOffset="350"/>
+    <component base="glyph00430" xOffset="913"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

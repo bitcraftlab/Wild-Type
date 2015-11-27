@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="569"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="373" y="10" type="line"/>
+      <point x="363" y="-51" type="line"/>
+      <point x="438.0" y="-65.0" name="inserted"/>
+      <point x="513.0" y="-151.5"/>
+      <point x="513" y="-224" type="qcurve" smooth="yes"/>
+      <point x="513" y="-340"/>
+      <point x="315" y="-472"/>
+      <point x="139" y="-472" type="qcurve"/>
+      <point x="132" y="-286" type="line"/>
+      <point x="176.0" y="-286.0" name="inserted"/>
+      <point x="220.0" y="-247.5"/>
+      <point x="220" y="-209" type="qcurve" smooth="yes"/>
+      <point x="220" y="-171"/>
+      <point x="157" y="-141"/>
+      <point x="86" y="-136" type="qcurve"/>
+      <point x="117" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

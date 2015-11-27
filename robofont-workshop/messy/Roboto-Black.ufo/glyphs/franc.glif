@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="1">
+  <advance width="1120"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <component base="F"/>
+    <component base="glyph00472" xOffset="-166" yOffset="-450"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etatonos" format="1">
+  <advance width="1539"/>
+  <unicode hex="0389"/>
+  <outline>
+    <component base="H" xOffset="100"/>
+    <component base="tonos" xOffset="-557" yOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

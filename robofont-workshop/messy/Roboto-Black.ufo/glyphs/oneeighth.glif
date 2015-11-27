@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oneeighth" format="1">
+  <advance width="1619"/>
+  <unicode hex="215B"/>
+  <outline>
+    <component base="glyph00437" xOffset="-37" yOffset="646"/>
+    <component base="fraction" xOffset="299"/>
+    <component base="glyph00430" xOffset="826"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

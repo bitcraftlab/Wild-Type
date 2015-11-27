@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB03" format="1">
+  <advance width="1978"/>
+  <unicode hex="FB03"/>
+  <outline>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="169" y="848" type="line"/>
+      <point x="12" y="848" type="line"/>
+      <point x="12" y="1082" type="line"/>
+      <point x="169" y="1082" type="line"/>
+      <point x="169" y="1168" type="line" smooth="yes"/>
+      <point x="169" y="1353"/>
+      <point x="387" y="1557"/>
+      <point x="584" y="1557" type="qcurve" smooth="yes"/>
+      <point x="620.0" y="1557.0" name="inserted"/>
+      <point x="699.0" y="1546.5"/>
+      <point x="742" y="1536" type="qcurve"/>
+      <point x="743" y="1288" type="line"/>
+      <point x="727.5" y="1292.5" name="inserted"/>
+      <point x="686.0" y="1297.0"/>
+      <point x="660" y="1297" type="qcurve" smooth="yes"/>
+      <point x="583.5" y="1297.0" name="inserted"/>
+      <point x="507.0" y="1231.0"/>
+      <point x="507" y="1165" type="qcurve" smooth="yes"/>
+      <point x="507" y="1082" type="line"/>
+      <point x="848" y="1082" type="line"/>
+      <point x="848" y="1118" type="line" smooth="yes"/>
+      <point x="849.5" y="1226.0" name="inserted"/>
+      <point x="920.5" y="1391.5"/>
+      <point x="990" y="1449" type="qcurve" smooth="yes"/>
+      <point x="1056.0" y="1503.0" name="inserted"/>
+      <point x="1240.5" y="1557.0"/>
+      <point x="1359" y="1557" type="qcurve" smooth="yes"/>
+      <point x="1433.0" y="1557.0" name="inserted"/>
+      <point x="1609.5" y="1528.0"/>
+      <point x="1712" y="1499" type="qcurve"/>
+      <point x="1665" y="1233" type="line"/>
+      <point x="1609" y="1248" type="line" smooth="yes"/>
+      <point x="1554.5" y="1262.5" name="inserted"/>
+      <point x="1440.0" y="1277.0"/>
+      <point x="1380" y="1277" type="qcurve" smooth="yes"/>
+      <point x="1283.5" y="1277.0" name="inserted"/>
+      <point x="1187.0" y="1189.0"/>
+      <point x="1187" y="1101" type="qcurve" smooth="yes"/>
+      <point x="1187" y="1082" type="line"/>
+      <point x="1398" y="1082" type="line"/>
+      <point x="1398" y="848" type="line"/>
+      <point x="1187" y="848" type="line"/>
+      <point x="1187" y="0" type="line"/>
+      <point x="848" y="0" type="line"/>
+      <point x="848" y="848" type="line"/>
+      <point x="507" y="848" type="line"/>
+      <point x="507" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1866" y="0" type="line"/>
+      <point x="1528" y="0" type="line"/>
+      <point x="1528" y="1082" type="line"/>
+      <point x="1866" y="1082" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

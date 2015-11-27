@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscoredbl" format="1">
+  <advance width="901"/>
+  <unicode hex="2017"/>
+  <outline>
+    <component base="underscore" yOffset="-265"/>
+    <component base="underscore"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

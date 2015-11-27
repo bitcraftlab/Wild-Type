@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicrontonos" format="1">
+  <advance width="1434"/>
+  <unicode hex="038C"/>
+  <outline>
+    <component base="O" xOffset="20"/>
+    <component base="tonos" xOffset="-455"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

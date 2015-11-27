@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="1">
+  <advance width="1395"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <component base="A"/>
+    <component base="glyph00473" xOffset="342" yOffset="259"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
